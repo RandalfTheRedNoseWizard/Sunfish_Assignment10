@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sunfish_Assignment10", "Sunfish_Assignment10\Sunfish_Assignment10.pyproj", "{78D141B8-29EC-4180-8BF8-371E3D794684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D141B8-29EC-4180-8BF8-371E3D794684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D141B8-29EC-4180-8BF8-371E3D794684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D7CA860-56BD-4DA8-882F-AFED5F14FE3E}
+	EndGlobalSection
+EndGlobal
