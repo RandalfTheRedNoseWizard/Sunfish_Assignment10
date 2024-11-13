@@ -1,5 +1,5 @@
-# Name: Jared Rababy
-# email:  Rababyjd@mail.uc.edu
+# Name: Jared Rababy | Aidan Friday
+# email:  Rababyjd@mail.uc.edu | fridayaj@mail.uc.edu
 # Assignment Number: Assignment_10
 # Due Date:   11/1/2024
 # Course #/Section: IS4010
